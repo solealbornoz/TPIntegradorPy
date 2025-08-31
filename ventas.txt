@@ -1,0 +1,23 @@
+--- Venta #0001 - 2025-08-31 12:10:15 - Encargado: Camila
+  H1 Hamburguesa Clásica x2 = ARS$7000.00
+  E1 Papas Fritas x1 = ARS$1500.00
+  B1 Gaseosa x2 = ARS$2400.00
+  TOTAL:  ARS$10900.00
+  PAGO:   ARS$12000.00
+  VUELTO: ARS$1100.00
+----------------------------------------------
+--- Venta #0003 - 2025-08-31 19:04:06 - Encargado: soledad
+  H1 Hamburguesa Clásica x2 = ARS$7000.00
+  B2 Agua x2 = ARS$2000.00
+  P1 Postre x1 = ARS$2000.00
+  TOTAL:  ARS$11000.00
+  PAGO:   ARS$20000.00
+  VUELTO: ARS$9000.00
+----------------------------------------------
+--- Venta #0003 - 2025-08-31 19:17:24 - Encargado: Soledad
+  H1 Hamburguesa Clásica x4 = ARS$14000.00
+  B1 Gaseosa x1 = ARS$1200.00
+  TOTAL:  ARS$15200.00
+  PAGO:   ARS$20000.00
+  VUELTO: ARS$4800.00
+----------------------------------------------

@@ -1,0 +1,4 @@
+[2025-08-31 09:00:00] ENTRADA - Encargado: Camila
+[2025-08-31 13:30:00] SALIDA  - Encargado: Camila
+[2025-08-31 19:16:42] ENTRADA - Encargado: Soledad
+
